@@ -55,7 +55,6 @@ Output Graph:
 
 
 Tablular Column:
-
 ![WhatsApp Image 2025-10-30 at 22 06 18_3dbadfc3](https://github.com/user-attachments/assets/6b82f6c0-95ea-44d3-ab86-dd8c4f1850c2)
 
 
