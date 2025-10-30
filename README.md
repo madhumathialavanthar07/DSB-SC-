@@ -59,7 +59,6 @@ Output Graph:
 Tablular Column:
 
 ![madhu analog 2](https://github.com/user-attachments/assets/8b84f5e5-0533-41bf-9d4f-0b2be05798c2)
-
-Result
+Result:
 Thus the DSB-SC-AM Modulation and Demodulation is generated.
 
